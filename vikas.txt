@@ -1,0 +1,7 @@
+created a new file in branch vicky
+~/DevopsPracticeRepo
+[A[3~[3~[3~[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[[D[D[A[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C
+
+ls
+
+
