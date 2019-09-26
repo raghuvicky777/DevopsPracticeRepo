@@ -1,1 +1,2 @@
 deleted readme file and created a new file raghu in branch vicky
+installed in ubuntu os
